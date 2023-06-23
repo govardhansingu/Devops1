@@ -8,3 +8,8 @@ Containers:
 Docker
 Docker sworm
 Kubernetis
+
+Git & Github - Version controlling & scan
+Maven - Build tool
+Tomcat - Application server
+Sonarqube - Code quality analysis
