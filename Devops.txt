@@ -13,3 +13,6 @@ Git & Github - Version controlling & scan
 Maven - Build tool
 Tomcat - Application server
 Sonarqube - Code quality analysis
+
+Jforg - preserve Artifacts(Software Builds)
+Jenkins - CI/CD
